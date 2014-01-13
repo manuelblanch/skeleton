@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *~
 application/config/database.php
 application/config/auth_ldap.php
@@ -15,3 +16,10 @@ application/logs/*
 application/third_party/grocery-crud/
 application/third_party/image-crud/
 
+=======
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+>>>>>>> ee59e3d90cb9811eb0ab0b93f87619f128396ca1
